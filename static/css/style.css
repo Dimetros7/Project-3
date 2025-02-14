@@ -1,0 +1,40 @@
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+ 
+.card-header {
+    background-color: #e3f2fd;
+    border-bottom: 1px solid #dee2e6;
+}
+ 
+.form-select {
+    width: 100%;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+}
+ 
+#sample-metadata {
+    font-size: 0.9rem;
+}
+ 
+#sample-metadata h6 {
+    margin-bottom: 0.5rem;
+    color: #495057;
+}
+ 
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+ 
+h1 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+ 
+.bg-light {
+    background-color: #f8f9fa !important;
+    border-radius: 8px;
+}

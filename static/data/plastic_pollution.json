@@ -1,0 +1,1496 @@
+[
+  {
+    "country_id": 1,
+    "country": "China",
+    "total_plastic_waste_mt": 59.08,
+    "main_source": "Packaging_Industrial",
+    "recycling_rate": 29.8,
+    "per_capita_waste_kg": 41.2,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 2,
+    "country": "United States",
+    "total_plastic_waste_mt": 42.02,
+    "main_source": "Packaging_Consumer",
+    "recycling_rate": 32.1,
+    "per_capita_waste_kg": 127.5,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 3,
+    "country": "India",
+    "total_plastic_waste_mt": 26.33,
+    "main_source": "Consumer_Goods",
+    "recycling_rate": 11.5,
+    "per_capita_waste_kg": 19.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 4,
+    "country": "Japan",
+    "total_plastic_waste_mt": 7.99,
+    "main_source": "Packaging_Electronics",
+    "recycling_rate": 84.8,
+    "per_capita_waste_kg": 63.2,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 5,
+    "country": "Germany",
+    "total_plastic_waste_mt": 6.28,
+    "main_source": "Automotive_Packaging",
+    "recycling_rate": 56.1,
+    "per_capita_waste_kg": 75.6,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 6,
+    "country": "Brazil",
+    "total_plastic_waste_mt": 5.96,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.2,
+    "per_capita_waste_kg": 28.1,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 7,
+    "country": "Indonesia",
+    "total_plastic_waste_mt": 5.85,
+    "main_source": "Food_Packaging",
+    "recycling_rate": 11.8,
+    "per_capita_waste_kg": 21.3,
+    "coastal_waste_risk": "Very_High"
+  },
+  {
+    "country_id": 8,
+    "country": "Russia",
+    "total_plastic_waste_mt": 5.84,
+    "main_source": "Industrial_Consumer",
+    "recycling_rate": 5.6,
+    "per_capita_waste_kg": 40.2,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 9,
+    "country": "United Kingdom",
+    "total_plastic_waste_mt": 5.03,
+    "main_source": "Packaging_Consumer",
+    "recycling_rate": 46.2,
+    "per_capita_waste_kg": 74.3,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 10,
+    "country": "France",
+    "total_plastic_waste_mt": 4.98,
+    "main_source": "Packaging_Consumer",
+    "recycling_rate": 27.3,
+    "per_capita_waste_kg": 73.1,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 11,
+    "country": "Mexico",
+    "total_plastic_waste_mt": 4.43,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 6.7,
+    "per_capita_waste_kg": 34.2,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 12,
+    "country": "Canada",
+    "total_plastic_waste_mt": 3.89,
+    "main_source": "Packaging_Consumer",
+    "recycling_rate": 9.4,
+    "per_capita_waste_kg": 102.1,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 13,
+    "country": "Italy",
+    "total_plastic_waste_mt": 3.83,
+    "main_source": "Packaging_Industrial",
+    "recycling_rate": 41.2,
+    "per_capita_waste_kg": 63.4,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 14,
+    "country": "Turkey",
+    "total_plastic_waste_mt": 3.21,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 12.1,
+    "per_capita_waste_kg": 38.5,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 15,
+    "country": "South Korea",
+    "total_plastic_waste_mt": 2.91,
+    "main_source": "Electronics_Packaging",
+    "recycling_rate": 59.1,
+    "per_capita_waste_kg": 56.7,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 16,
+    "country": "Spain",
+    "total_plastic_waste_mt": 2.58,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 37.8,
+    "per_capita_waste_kg": 54.9,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 17,
+    "country": "Vietnam",
+    "total_plastic_waste_mt": 2.54,
+    "main_source": "Food_Packaging",
+    "recycling_rate": 15.3,
+    "per_capita_waste_kg": 25.8,
+    "coastal_waste_risk": "Very_High"
+  },
+  {
+    "country_id": 18,
+    "country": "Thailand",
+    "total_plastic_waste_mt": 2.41,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 17.6,
+    "per_capita_waste_kg": 34.5,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 19,
+    "country": "Malaysia",
+    "total_plastic_waste_mt": 2.31,
+    "main_source": "Industrial_Consumer",
+    "recycling_rate": 24.3,
+    "per_capita_waste_kg": 70.2,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 20,
+    "country": "Poland",
+    "total_plastic_waste_mt": 2.21,
+    "main_source": "Packaging_Industrial",
+    "recycling_rate": 34.5,
+    "per_capita_waste_kg": 58.3,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 21,
+    "country": "Egypt",
+    "total_plastic_waste_mt": 2.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 6.5,
+    "per_capita_waste_kg": 19.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 22,
+    "country": "Argentina",
+    "total_plastic_waste_mt": 1.98,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 14.2,
+    "per_capita_waste_kg": 43.5,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 23,
+    "country": "Netherlands",
+    "total_plastic_waste_mt": 1.78,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 55.9,
+    "per_capita_waste_kg": 102.8,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 24,
+    "country": "Australia",
+    "total_plastic_waste_mt": 1.67,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 13.2,
+    "per_capita_waste_kg": 64.8,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 25,
+    "country": "Saudi Arabia",
+    "total_plastic_waste_mt": 1.65,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 4.5,
+    "per_capita_waste_kg": 46.9,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 26,
+    "country": "Philippines",
+    "total_plastic_waste_mt": 1.63,
+    "main_source": "Food_Packaging",
+    "recycling_rate": 9.1,
+    "per_capita_waste_kg": 14.8,
+    "coastal_waste_risk": "Very_High"
+  },
+  {
+    "country_id": 27,
+    "country": "Bangladesh",
+    "total_plastic_waste_mt": 1.61,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 8.4,
+    "per_capita_waste_kg": 9.7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 28,
+    "country": "Pakistan",
+    "total_plastic_waste_mt": 1.59,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 3.2,
+    "per_capita_waste_kg": 7.1,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 29,
+    "country": "South Africa",
+    "total_plastic_waste_mt": 1.58,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 18.9,
+    "per_capita_waste_kg": 26.4,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 30,
+    "country": "Colombia",
+    "total_plastic_waste_mt": 1.54,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 7.8,
+    "per_capita_waste_kg": 30.1,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 31,
+    "country": "Nigeria",
+    "total_plastic_waste_mt": 1.53,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.1,
+    "per_capita_waste_kg": 7.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 32,
+    "country": "Belgium",
+    "total_plastic_waste_mt": 1.52,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 43.2,
+    "per_capita_waste_kg": 131.2,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 33,
+    "country": "Sweden",
+    "total_plastic_waste_mt": 1.51,
+    "main_source": "Packaging_Industrial",
+    "recycling_rate": 50.6,
+    "per_capita_waste_kg": 146.3,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 34,
+    "country": "Austria",
+    "total_plastic_waste_mt": 1.48,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 56.4,
+    "per_capita_waste_kg": 164.8,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 35,
+    "country": "Ukraine",
+    "total_plastic_waste_mt": 1.47,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 3.4,
+    "per_capita_waste_kg": 33.7,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 36,
+    "country": "Greece",
+    "total_plastic_waste_mt": 1.45,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 21.3,
+    "per_capita_waste_kg": 139.2,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 37,
+    "country": "Czech Republic",
+    "total_plastic_waste_mt": 1.43,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 41.7,
+    "per_capita_waste_kg": 133.9,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 38,
+    "country": "Romania",
+    "total_plastic_waste_mt": 1.41,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 13.8,
+    "per_capita_waste_kg": 73.4,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 39,
+    "country": "Portugal",
+    "total_plastic_waste_mt": 1.39,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 31.2,
+    "per_capita_waste_kg": 135.8,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 40,
+    "country": "Hungary",
+    "total_plastic_waste_mt": 1.37,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 30.1,
+    "per_capita_waste_kg": 141.5,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 41,
+    "country": "Denmark",
+    "total_plastic_waste_mt": 1.35,
+    "main_source": "Packaging_Consumer",
+    "recycling_rate": 42.3,
+    "per_capita_waste_kg": 232.1,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 42,
+    "country": "Finland",
+    "total_plastic_waste_mt": 1.33,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 42.1,
+    "per_capita_waste_kg": 240.2,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 43,
+    "country": "Norway",
+    "total_plastic_waste_mt": 1.31,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 44.5,
+    "per_capita_waste_kg": 243.1,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 44,
+    "country": "Ireland",
+    "total_plastic_waste_mt": 1.29,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 31.2,
+    "per_capita_waste_kg": 257.3,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 45,
+    "country": "Singapore",
+    "total_plastic_waste_mt": 1.27,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 59.8,
+    "per_capita_waste_kg": 217.9,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 46,
+    "country": "Chile",
+    "total_plastic_waste_mt": 1.25,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 8.9,
+    "per_capita_waste_kg": 64.7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 47,
+    "country": "Israel",
+    "total_plastic_waste_mt": 1.23,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 14.5,
+    "per_capita_waste_kg": 133.7,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 48,
+    "country": "Peru",
+    "total_plastic_waste_mt": 1.21,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.3,
+    "per_capita_waste_kg": 36.4,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 49,
+    "country": "Kazakhstan",
+    "total_plastic_waste_mt": 1.19,
+    "main_source": "Industrial_Consumer",
+    "recycling_rate": 4.5,
+    "per_capita_waste_kg": 62.8,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 50,
+    "country": "Morocco",
+    "total_plastic_waste_mt": 1.17,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 7.8,
+    "per_capita_waste_kg": 31.2,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 51,
+    "country": "Algeria",
+    "total_plastic_waste_mt": 1.15,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 4.3,
+    "per_capita_waste_kg": 25.9,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 52,
+    "country": "Slovakia",
+    "total_plastic_waste_mt": 1.13,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 38.9,
+    "per_capita_waste_kg": 207.1,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 53,
+    "country": "Ecuador",
+    "total_plastic_waste_mt": 1.11,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 4.1,
+    "per_capita_waste_kg": 61.8,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 54,
+    "country": "Belarus",
+    "total_plastic_waste_mt": 1.09,
+    "main_source": "Industrial_Consumer",
+    "recycling_rate": 7.2,
+    "per_capita_waste_kg": 115.7,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 55,
+    "country": "Dominican Republic",
+    "total_plastic_waste_mt": 1.07,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.8,
+    "per_capita_waste_kg": 97.6,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 56,
+    "country": "Bulgaria",
+    "total_plastic_waste_mt": 1.05,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 31.5,
+    "per_capita_waste_kg": 152.3,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 57,
+    "country": "Tunisia",
+    "total_plastic_waste_mt": 1.03,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 4.1,
+    "per_capita_waste_kg": 85.9,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 58,
+    "country": "Sri Lanka",
+    "total_plastic_waste_mt": 1.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 29.8,
+    "per_capita_waste_kg": 46.7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 59,
+    "country": "Azerbaijan",
+    "total_plastic_waste_mt": 0.99,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 18.2,
+    "per_capita_waste_kg": 96.8,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 60,
+    "country": "Croatia",
+    "total_plastic_waste_mt": 0.97,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 33.7,
+    "per_capita_waste_kg": 238.1,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 61,
+    "country": "Uruguay",
+    "total_plastic_waste_mt": 0.95,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 35.2,
+    "per_capita_waste_kg": 272.4,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 62,
+    "country": "Lithuania",
+    "total_plastic_waste_mt": 0.93,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 45.3,
+    "per_capita_waste_kg": 334.8,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 63,
+    "country": "Slovenia",
+    "total_plastic_waste_mt": 0.91,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 42.1,
+    "per_capita_waste_kg": 436.5,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 64,
+    "country": "Costa Rica",
+    "total_plastic_waste_mt": 0.89,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 13.2,
+    "per_capita_waste_kg": 172.8,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 65,
+    "country": "Panama",
+    "total_plastic_waste_mt": 0.87,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 5.4,
+    "per_capita_waste_kg": 198.6,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 66,
+    "country": "Kuwait",
+    "total_plastic_waste_mt": 0.85,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 10.2,
+    "per_capita_waste_kg": 195.4,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 67,
+    "country": "Jordan",
+    "total_plastic_waste_mt": 0.83,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 7.8,
+    "per_capita_waste_kg": 80.6,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 68,
+    "country": "Lebanon",
+    "total_plastic_waste_mt": 0.81,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 6.4,
+    "per_capita_waste_kg": 119.1,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 69,
+    "country": "Oman",
+    "total_plastic_waste_mt": 0.79,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 3.2,
+    "per_capita_waste_kg": 151.9,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 70,
+    "country": "Bolivia",
+    "total_plastic_waste_mt": 0.77,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.8,
+    "per_capita_waste_kg": 65.3,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 71,
+    "country": "Paraguay",
+    "total_plastic_waste_mt": 0.75,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 4.1,
+    "per_capita_waste_kg": 104.2,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 72,
+    "country": "Latvia",
+    "total_plastic_waste_mt": 0.73,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 43.2,
+    "per_capita_waste_kg": 386.8,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 73,
+    "country": "Estonia",
+    "total_plastic_waste_mt": 0.71,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 31.8,
+    "per_capita_waste_kg": 534.6,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 74,
+    "country": "Bahrain",
+    "total_plastic_waste_mt": 0.69,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 4.5,
+    "per_capita_waste_kg": 397.7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 75,
+    "country": "Trinidad and Tobago",
+    "total_plastic_waste_mt": 0.67,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 3.2,
+    "per_capita_waste_kg": 478.6,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 76,
+    "country": "Cyprus",
+    "total_plastic_waste_mt": 0.65,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 16.4,
+    "per_capita_waste_kg": 531.1,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 77,
+    "country": "Montenegro",
+    "total_plastic_waste_mt": 0.63,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 3.4,
+    "per_capita_waste_kg": 1004.8,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 78,
+    "country": "Luxembourg",
+    "total_plastic_waste_mt": 0.61,
+    "main_source": "Industrial_Packaging",
+    "recycling_rate": 48.9,
+    "per_capita_waste_kg": 957.8,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 79,
+    "country": "Malta",
+    "total_plastic_waste_mt": 0.59,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 11.2,
+    "per_capita_waste_kg": 1331.5,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 80,
+    "country": "Iceland",
+    "total_plastic_waste_mt": 0.57,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 55.6,
+    "per_capita_waste_kg": 1564.4,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 81,
+    "country": "Qatar",
+    "total_plastic_waste_mt": 0.55,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 8.9,
+    "per_capita_waste_kg": 188.7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 82,
+    "country": "Cambodia",
+    "total_plastic_waste_mt": 0.53,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 5.4,
+    "per_capita_waste_kg": 31.2,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 83,
+    "country": "Myanmar",
+    "total_plastic_waste_mt": 0.51,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.1,
+    "per_capita_waste_kg": 9.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 84,
+    "country": "Laos",
+    "total_plastic_waste_mt": 0.49,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.8,
+    "per_capita_waste_kg": 66.2,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 85,
+    "country": "Mongolia",
+    "total_plastic_waste_mt": 0.47,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.9,
+    "per_capita_waste_kg": 141.6,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 86,
+    "country": "Afghanistan",
+    "total_plastic_waste_mt": 0.45,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.5,
+    "per_capita_waste_kg": 11.4,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 87,
+    "country": "Yemen",
+    "total_plastic_waste_mt": 0.43,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.3,
+    "per_capita_waste_kg": 14.2,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 88,
+    "country": "Syria",
+    "total_plastic_waste_mt": 0.41,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.4,
+    "per_capita_waste_kg": 24.7,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 89,
+    "country": "Iraq",
+    "total_plastic_waste_mt": 0.39,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.2,
+    "per_capita_waste_kg": 9.6,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 90,
+    "country": "Libya",
+    "total_plastic_waste_mt": 0.37,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.8,
+    "per_capita_waste_kg": 53.2,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 91,
+    "country": "Sudan",
+    "total_plastic_waste_mt": 0.35,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.4,
+    "per_capita_waste_kg": 7.9,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 92,
+    "country": "Somalia",
+    "total_plastic_waste_mt": 0.33,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.1,
+    "per_capita_waste_kg": 20.4,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 93,
+    "country": "Ethiopia",
+    "total_plastic_waste_mt": 0.31,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.7,
+    "per_capita_waste_kg": 2.6,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 94,
+    "country": "Kenya",
+    "total_plastic_waste_mt": 0.29,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 7.8,
+    "per_capita_waste_kg": 5.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 95,
+    "country": "Tanzania",
+    "total_plastic_waste_mt": 0.27,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 5.4,
+    "per_capita_waste_kg": 4.4,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 96,
+    "country": "Uganda",
+    "total_plastic_waste_mt": 0.25,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.3,
+    "per_capita_waste_kg": 5.3,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 97,
+    "country": "Rwanda",
+    "total_plastic_waste_mt": 0.23,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 11.2,
+    "per_capita_waste_kg": 17.4,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 98,
+    "country": "Burundi",
+    "total_plastic_waste_mt": 0.21,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.8,
+    "per_capita_waste_kg": 17.3,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 99,
+    "country": "Malawi",
+    "total_plastic_waste_mt": 0.19,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.5,
+    "per_capita_waste_kg": 9.7,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 100,
+    "country": "Mozambique",
+    "total_plastic_waste_mt": 0.17,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.9,
+    "per_capita_waste_kg": 5.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 101,
+    "country": "Zimbabwe",
+    "total_plastic_waste_mt": 0.15,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.1,
+    "per_capita_waste_kg": 9.9,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 102,
+    "country": "Zambia",
+    "total_plastic_waste_mt": 0.13,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.8,
+    "per_capita_waste_kg": 6.9,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 103,
+    "country": "Angola",
+    "total_plastic_waste_mt": 0.11,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.4,
+    "per_capita_waste_kg": 3.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 104,
+    "country": "Namibia",
+    "total_plastic_waste_mt": 0.09,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 12.3,
+    "per_capita_waste_kg": 35.1,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 105,
+    "country": "Botswana",
+    "total_plastic_waste_mt": 0.07,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 8.9,
+    "per_capita_waste_kg": 29.3,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 106,
+    "country": "Lesotho",
+    "total_plastic_waste_mt": 0.05,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.7,
+    "per_capita_waste_kg": 23.2,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 107,
+    "country": "Eswatini",
+    "total_plastic_waste_mt": 0.03,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.2,
+    "per_capita_waste_kg": 25.6,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 108,
+    "country": "Madagascar",
+    "total_plastic_waste_mt": 0.21,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.1,
+    "per_capita_waste_kg": 7.4,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 109,
+    "country": "Comoros",
+    "total_plastic_waste_mt": 0.02,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.4,
+    "per_capita_waste_kg": 22.7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 110,
+    "country": "Mauritius",
+    "total_plastic_waste_mt": 0.08,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 15.4,
+    "per_capita_waste_kg": 62.8,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 111,
+    "country": "Seychelles",
+    "total_plastic_waste_mt": 0.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 18.9,
+    "per_capita_waste_kg": 101.2,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 112,
+    "country": "Cape Verde",
+    "total_plastic_waste_mt": 0.02,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 3.4,
+    "per_capita_waste_kg": 35.6,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 113,
+    "country": "Sao Tome and Principe",
+    "total_plastic_waste_mt": 0.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.8,
+    "per_capita_waste_kg": 45.2,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 114,
+    "country": "Guinea-Bissau",
+    "total_plastic_waste_mt": 0.04,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.3,
+    "per_capita_waste_kg": 19.8,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 115,
+    "country": "Guinea",
+    "total_plastic_waste_mt": 0.08,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.5,
+    "per_capita_waste_kg": 6,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 116,
+    "country": "Sierra Leone",
+    "total_plastic_waste_mt": 0.06,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.4,
+    "per_capita_waste_kg": 7.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 117,
+    "country": "Liberia",
+    "total_plastic_waste_mt": 0.05,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.2,
+    "per_capita_waste_kg": 9.7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 118,
+    "country": "Ivory Coast",
+    "total_plastic_waste_mt": 0.18,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.2,
+    "per_capita_waste_kg": 6.7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 119,
+    "country": "Ghana",
+    "total_plastic_waste_mt": 0.22,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 4.5,
+    "per_capita_waste_kg": 7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 120,
+    "country": "Togo",
+    "total_plastic_waste_mt": 0.07,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.8,
+    "per_capita_waste_kg": 8.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 121,
+    "country": "Benin",
+    "total_plastic_waste_mt": 0.09,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.6,
+    "per_capita_waste_kg": 7.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 122,
+    "country": "Mali",
+    "total_plastic_waste_mt": 0.12,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.3,
+    "per_capita_waste_kg": 5.8,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 123,
+    "country": "Burkina Faso",
+    "total_plastic_waste_mt": 0.14,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.4,
+    "per_capita_waste_kg": 6.5,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 124,
+    "country": "Niger",
+    "total_plastic_waste_mt": 0.11,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.2,
+    "per_capita_waste_kg": 4.4,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 125,
+    "country": "Chad",
+    "total_plastic_waste_mt": 0.09,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.1,
+    "per_capita_waste_kg": 5.4,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 126,
+    "country": "Central African Republic",
+    "total_plastic_waste_mt": 0.04,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.2,
+    "per_capita_waste_kg": 8.1,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 127,
+    "country": "Cameroon",
+    "total_plastic_waste_mt": 0.19,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.2,
+    "per_capita_waste_kg": 7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 128,
+    "country": "Gabon",
+    "total_plastic_waste_mt": 0.06,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.3,
+    "per_capita_waste_kg": 26.4,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 129,
+    "country": "Republic of Congo",
+    "total_plastic_waste_mt": 0.08,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.9,
+    "per_capita_waste_kg": 14.2,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 130,
+    "country": "Democratic Republic of Congo",
+    "total_plastic_waste_mt": 0.24,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.4,
+    "per_capita_waste_kg": 2.6,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 131,
+    "country": "Eritrea",
+    "total_plastic_waste_mt": 0.05,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.3,
+    "per_capita_waste_kg": 13.9,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 132,
+    "country": "Djibouti",
+    "total_plastic_waste_mt": 0.03,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.1,
+    "per_capita_waste_kg": 29.7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 133,
+    "country": "Senegal",
+    "total_plastic_waste_mt": 0.16,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.8,
+    "per_capita_waste_kg": 9.4,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 134,
+    "country": "Gambia",
+    "total_plastic_waste_mt": 0.02,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.5,
+    "per_capita_waste_kg": 8.1,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 135,
+    "country": "Mauritania",
+    "total_plastic_waste_mt": 0.07,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.4,
+    "per_capita_waste_kg": 14.8,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 136,
+    "country": "Western Sahara",
+    "total_plastic_waste_mt": 0.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.2,
+    "per_capita_waste_kg": 18.5,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 137,
+    "country": "Moldova",
+    "total_plastic_waste_mt": 0.28,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 12.3,
+    "per_capita_waste_kg": 69.7,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 138,
+    "country": "Albania",
+    "total_plastic_waste_mt": 0.31,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 15.6,
+    "per_capita_waste_kg": 107.9,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 139,
+    "country": "North Macedonia",
+    "total_plastic_waste_mt": 0.29,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 17.8,
+    "per_capita_waste_kg": 139.2,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 140,
+    "country": "Bosnia and Herzegovina",
+    "total_plastic_waste_mt": 0.34,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 13.2,
+    "per_capita_waste_kg": 104.5,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 141,
+    "country": "Kosovo",
+    "total_plastic_waste_mt": 0.21,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 8.9,
+    "per_capita_waste_kg": 115.7,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 142,
+    "country": "Georgia",
+    "total_plastic_waste_mt": 0.33,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 11.2,
+    "per_capita_waste_kg": 88.3,
+    "coastal_waste_risk": "Medium"
+  },
+  {
+    "country_id": 143,
+    "country": "Armenia",
+    "total_plastic_waste_mt": 0.28,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 9.8,
+    "per_capita_waste_kg": 94.2,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 144,
+    "country": "Kyrgyzstan",
+    "total_plastic_waste_mt": 0.25,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 4.5,
+    "per_capita_waste_kg": 37.8,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 145,
+    "country": "Tajikistan",
+    "total_plastic_waste_mt": 0.22,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 3.2,
+    "per_capita_waste_kg": 22.7,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 146,
+    "country": "Turkmenistan",
+    "total_plastic_waste_mt": 0.35,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.1,
+    "per_capita_waste_kg": 57.3,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 147,
+    "country": "Uzbekistan",
+    "total_plastic_waste_mt": 0.42,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 3.4,
+    "per_capita_waste_kg": 12.3,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 148,
+    "country": "Nepal",
+    "total_plastic_waste_mt": 0.38,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 5.6,
+    "per_capita_waste_kg": 12.8,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 149,
+    "country": "Bhutan",
+    "total_plastic_waste_mt": 0.05,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 12.3,
+    "per_capita_waste_kg": 64.2,
+    "coastal_waste_risk": "Low"
+  },
+  {
+    "country_id": 150,
+    "country": "Maldives",
+    "total_plastic_waste_mt": 0.04,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 3.2,
+    "per_capita_waste_kg": 72.8,
+    "coastal_waste_risk": "Very_High"
+  },
+  {
+    "country_id": 151,
+    "country": "Brunei",
+    "total_plastic_waste_mt": 0.12,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 8.9,
+    "per_capita_waste_kg": 269.4,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 152,
+    "country": "East Timor",
+    "total_plastic_waste_mt": 0.06,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.3,
+    "per_capita_waste_kg": 44.7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 153,
+    "country": "Papua New Guinea",
+    "total_plastic_waste_mt": 0.15,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.2,
+    "per_capita_waste_kg": 16.5,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 154,
+    "country": "Solomon Islands",
+    "total_plastic_waste_mt": 0.03,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.8,
+    "per_capita_waste_kg": 42.9,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 155,
+    "country": "Vanuatu",
+    "total_plastic_waste_mt": 0.02,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.1,
+    "per_capita_waste_kg": 63.8,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 156,
+    "country": "New Caledonia",
+    "total_plastic_waste_mt": 0.04,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 23.4,
+    "per_capita_waste_kg": 138.6,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 157,
+    "country": "Fiji",
+    "total_plastic_waste_mt": 0.07,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 6.7,
+    "per_capita_waste_kg": 76.9,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 158,
+    "country": "Samoa",
+    "total_plastic_waste_mt": 0.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 4.5,
+    "per_capita_waste_kg": 49.8,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 159,
+    "country": "Tonga",
+    "total_plastic_waste_mt": 0.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 3.2,
+    "per_capita_waste_kg": 92.7,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 160,
+    "country": "Kiribati",
+    "total_plastic_waste_mt": 0.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 2.1,
+    "per_capita_waste_kg": 82.4,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 161,
+    "country": "Marshall Islands",
+    "total_plastic_waste_mt": 0.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.8,
+    "per_capita_waste_kg": 168.5,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 162,
+    "country": "Micronesia",
+    "total_plastic_waste_mt": 0.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.5,
+    "per_capita_waste_kg": 86.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 163,
+    "country": "Palau",
+    "total_plastic_waste_mt": 0.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 12.3,
+    "per_capita_waste_kg": 437.2,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 164,
+    "country": "Tuvalu",
+    "total_plastic_waste_mt": 0.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 1.2,
+    "per_capita_waste_kg": 833.3,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 165,
+    "country": "Nauru",
+    "total_plastic_waste_mt": 0.01,
+    "main_source": "Consumer_Packaging",
+    "recycling_rate": 0.9,
+    "per_capita_waste_kg": 927.8,
+    "coastal_waste_risk": "High"
+  },
+  {
+    "country_id": 166,
+    "country": "",
+    "total_plastic_waste_mt": 284.38,
+    "main_source": "",
+    "recycling_rate": 2160.9,
+    "per_capita_waste_kg": "",
+    "coastal_waste_risk": ""
+  }
+]
